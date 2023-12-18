@@ -11,7 +11,7 @@ This project features an ESP8266-based prototype leveraging the MPU6050 MEMS Gyr
 - wifi.h
 ```
 
-## Code Snippets 🧩
+## Code 🧩
 
 ### MPU6050 Initialization and Sensor Data Retrieval
 
